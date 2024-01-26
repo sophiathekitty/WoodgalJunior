@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoodgalJunior", "WoodgalJunior\WoodgalJunior.csproj", "{6B5002E8-1E3A-40F6-8B43-A5F74B50C5A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B5002E8-1E3A-40F6-8B43-A5F74B50C5A8}.Debug|x64.ActiveCfg = Debug|x64
+		{6B5002E8-1E3A-40F6-8B43-A5F74B50C5A8}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33BF45D4-8C32-42DA-B43E-3AFE8CA482C6}
+	EndGlobalSection
+EndGlobal
